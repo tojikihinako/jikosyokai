@@ -1,0 +1,28 @@
+body {
+    font-family: "arial black";
+}
+
+
+body {
+    color: #8e5126;
+}
+
+img  {
+    border-radius: 20px;
+    }
+
+    table {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 75px;
+      }
+
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color:rgba(245, 68, 207, 0.345);
+  }
+
+  
